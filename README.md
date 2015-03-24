@@ -15,6 +15,12 @@ include /etc/nginx/custom-errors*.conf
 ```
 Reload nginx and you're done.
 
+## Examples
+Hit http://sebastian-misch.de/non-existent-bla-bla-file to get a 404.
+
+Hit http://sebastian-misch.de with a good old Internet Explorer 8 to
+test the vintage browser detection.
+
 ## Image credits
 
 ### Ghost
