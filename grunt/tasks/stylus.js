@@ -6,7 +6,10 @@ module.exports = {
       linenos: false,
       urlfunc: {
         name: 'embedurl',
-        limit: 100000
+        limit: 100000,
+        paths: [
+          '<%= paths.dist %>/svgmin.tmp'
+        ]
       }
     },
     files: {
