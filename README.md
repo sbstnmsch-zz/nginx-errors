@@ -1,0 +1,35 @@
+# Nginx error pages
+
+Some posh custom error pages for use witch nginx.
+
+# Install
+```
+$ npm install
+$ grunt
+$ copy dist/*.html /usr/local/nginx/htdoc/errors/
+$ copy dist/error.conf /etc/nginx/conf.d/
+```
+
+## Image credits
+
+### Ghost
+
+This icon is licensed as Creative Commons – Attribution (CC BY 3.0)
+
+Source: http://thenounproject.com/term/ghost/120580/
+
+Created by Andres Flores
+
+Commerce, CA, US 2015
+
+Waka Waka
+
+### Tape
+
+This icon is licensed as Creative Commons – Attribution (CC BY 3.0)
+
+Source: http://thenounproject.com/term/cassette/922/
+
+Created by Mathies Janssen
+
+Hamburg, DE 2011

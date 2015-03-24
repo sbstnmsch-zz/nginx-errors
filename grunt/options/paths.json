@@ -1,0 +1,11 @@
+{
+  "src": {
+    "css": "src/stylesheets",
+    "images": "src/images",
+    "webfonts": "src/webfonts",
+    "scripts": "src/javascript",
+    "templates": "src/templates"
+  },
+  "tmp": "tmp",
+  "dist": "dist"
+}

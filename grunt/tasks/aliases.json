@@ -1,0 +1,20 @@
+{
+  "default": [
+    "checkDependencies",
+    "backend",
+    "frontend"
+  ],
+  "backend": [
+  ],
+  "frontend": [
+    "clean",
+    "svgmin",
+    "stylus",
+    "autoprefixer",
+    "cssmin",
+    "processhtml",
+    "htmlmin",
+    "copy",
+    "clean"
+  ]
+}
