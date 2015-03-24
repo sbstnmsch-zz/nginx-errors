@@ -6,8 +6,8 @@ module.exports = {
     },
     files: {
       '<%= paths.dist %>/outdated.html': '<%= paths.dist %>/outdated.html.tmp',
-      '<%= paths.dist %>/404.html': '<%= paths.dist %>/404.html.tmp',
-      '<%= paths.dist %>/500.html': '<%= paths.dist %>/500.html.tmp'
+      '<%= paths.dist %>/40x.html': '<%= paths.dist %>/40x.html.tmp',
+      '<%= paths.dist %>/50x.html': '<%= paths.dist %>/50x.html.tmp'
     }
   }
 };
