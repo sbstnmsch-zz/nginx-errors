@@ -2,13 +2,18 @@
 
 Some posh custom error pages for use witch nginx.
 
-# Install
+## Install
 ```
 $ npm install
 $ grunt
-$ copy dist/*.html /usr/local/nginx/htdoc/errors/
-$ copy dist/error.conf /etc/nginx/conf.d/
+$ copy dist/*.html /usr/share/nginx/custom-errors/
+$ copy dist/custom-errors.conf /etc/nginx/
 ```
+Now, for each virtual host add:
+```
+include /etc/nginx/custom-errors*.conf
+```
+Reload nginx and you're done.
 
 ## Image credits
 

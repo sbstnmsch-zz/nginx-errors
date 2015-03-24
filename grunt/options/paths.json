@@ -4,7 +4,8 @@
     "images": "src/images",
     "webfonts": "src/webfonts",
     "scripts": "src/javascript",
-    "templates": "src/templates"
+    "templates": "src/templates",
+    "config": "src/nginx"
   },
   "tmp": "tmp",
   "dist": "dist"
