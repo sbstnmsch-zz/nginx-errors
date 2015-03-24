@@ -1,6 +1,6 @@
 # Nginx error pages
 
-Some posh custom error pages for use witch nginx.
+Some posh custom error pages for use with nginx.
 
 ## Install
 ```
@@ -9,7 +9,7 @@ $ grunt
 $ copy dist/*.html /usr/share/nginx/custom-errors/
 $ copy dist/custom-errors.conf /etc/nginx/
 ```
-Now, for each virtual host add:
+Now, for each virtual host, add:
 ```
 include /etc/nginx/custom-errors*.conf
 ```
