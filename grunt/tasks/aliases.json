@@ -1,6 +1,5 @@
 {
   "default": [
-    "checkDependencies",
     "backend",
     "frontend"
   ],
