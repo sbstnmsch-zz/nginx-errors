@@ -16,7 +16,7 @@
     "grunt-svgmin": "3.1.0",
     "jit-grunt": "0.9.1",
     "load-grunt-config": "0.19.1",
-    "stylus": "0.52.4",
+    "stylus": "0.53.0",
     "time-grunt": "1.1.0"
   },
   "repository": {
