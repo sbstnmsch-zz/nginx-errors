@@ -13,7 +13,7 @@
     "grunt-contrib-htmlmin": "0.6.0",
     "grunt-contrib-stylus": "0.22.0",
     "grunt-processhtml": "0.3.8",
-    "grunt-svgmin": "3.1.0",
+    "grunt-svgmin": "3.1.2",
     "jit-grunt": "0.9.1",
     "load-grunt-config": "0.19.1",
     "stylus": "0.52.4",
