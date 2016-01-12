@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/sbstnmsch/nginx-errors.svg?branch=master)](https://travis-ci.org/sbstnmsch/nginx-errors)
+
 # Nginx error pages
 
 Some posh custom error pages for use with nginx.
