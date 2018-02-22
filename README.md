@@ -2,6 +2,8 @@
 
 # Nginx error pages
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sbstnmsch/nginx-errors.svg)](https://greenkeeper.io/)
+
 Some posh custom error pages for use with nginx.
 
 ## Install
