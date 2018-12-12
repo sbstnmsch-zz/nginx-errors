@@ -15,7 +15,7 @@
     "grunt-contrib-cssmin": "2.2.1",
     "grunt-contrib-htmlmin": "2.4.0",
     "grunt-contrib-stylus": "1.2.0",
-    "grunt-processhtml": "0.4.1",
+    "grunt-processhtml": "0.4.2",
     "grunt-svgmin": "5.0.0",
     "jit-grunt": "0.10.0",
     "load-grunt-config": "0.19.2",
